@@ -7,3 +7,5 @@ class Magician extends Character {
     this.defence = 40;
   }
 }
+
+export default Magician;
